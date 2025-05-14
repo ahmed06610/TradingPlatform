@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Global.TradingPlatform.DesktopApp/appsettings.json
+/Global.TradingPlatform.Exchange/appsettings.json
+/Global.TradingPlatform.OrderService/appsettings.json
+/Global.TradingPlatform.OrderUpdater/appsettings.json
+/Global.TradingPlatform.Streamer/appsettings.json
+/EmployeesPortal.Shared/appsettings.json
