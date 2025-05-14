@@ -367,3 +367,4 @@ FodyWeavers.xsd
 /Global.TradingPlatform.OrderUpdater/appsettings.json
 /Global.TradingPlatform.Streamer/appsettings.json
 /EmployeesPortal.Shared/appsettings.json
+/AuthenticationService/appsettings.json
